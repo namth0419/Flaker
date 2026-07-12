@@ -1,4 +1,4 @@
-# Lithography Vision Toolkit — Flake Analyzer & EBL Aligner
+# Flaker — Lithography Vision Toolkit with Flake Analyzer & EBL Aligner
 
 A desktop tool (Python + OpenCV + Tkinter) for two common tasks in 2D-material device fabrication:
 
